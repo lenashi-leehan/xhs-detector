@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+}
+
+textarea {
+  width: 100%;
+  height: 150px;
+  margin-bottom: 20px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+#result {
+  margin-top: 30px;
+  white-space: pre-wrap;
+}
+
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
